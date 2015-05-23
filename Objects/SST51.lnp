@@ -1,0 +1,7 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\PRINTF51.obj",
+".\Objects\LED_flash.obj",
+".\Objects\Sch51.obj" 
+TO ".\Objects\SST51" 
+PRINT(".\Listings\SST51.m51") RAMSIZE(256) 
